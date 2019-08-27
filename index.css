@@ -7,6 +7,8 @@ GitHub: @carloswhite
 
 @import url('https://fonts.googleapis.com/css?family=Poppins');
 
+/* Shared
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
 body {
     font-family: 'Poppins', sans-serif;
     padding:0px;
@@ -52,6 +54,10 @@ header {
 header table {
     width:100%;
 }
+
+/* Sections
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
 #logo {
     width:20%;
 }
@@ -309,7 +315,8 @@ button:focus {
 ::-webkit-scrollbar-thumb:hover {
     background: rgba(0, 0, 0,0.8); 
 }
-
+/* Shared
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
 @media (max-width: 1000px){
     #photos {
     columns:1;
