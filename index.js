@@ -1,8 +1,8 @@
 /* 
-<!--
+
 Portfolio Website Adapted by Carlos A. Blanco
 GitHub: @carloswhite
--->
+
 */
 
 var width = $(window).width();
